@@ -1,4 +1,4 @@
-# **Documentación de Proxy Inverso - 1.0.0**
+# **Proxy Inverso - Fco. Javier Martín Mariscal**
 
 ## **Introducción**
 Este documento describe la configuración de un proxy inverso utilizando dos servidores Debian con Nginx para el dominio `example.test`.
